@@ -1,16 +1,11 @@
-## Hi there 👋
+ ## What I work on
+  - Microsoft Azure & Hybrid Identity (AAD Connect, Entra ID)
+  - Active Directory design & Group Policy
+  - Network security (FortiGate, RADIUS/NPS, 802.1X)
+  - SIEM & threat detection (Splunk, Cyences)
 
-<!--
-**moemarabeh/moemarabeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Case Studies
+  - [AD Restructure — Flat to OU Hierarchy](link)
+  - [Azure AD Connect Migration (350 users)](link)
+  - [RADIUS WiFi Authentication Replacement](link)
+  - [Azure Security Score Improvement (+30 pts)](link)
