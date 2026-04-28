@@ -9,3 +9,4 @@
   - [Azure AD Connect Migration (350 users)](link)
   - [RADIUS WiFi Authentication Replacement](link)
   - [Azure Security Score Improvement (+30 pts)](link)
+  - [Hybrid Azure AD Join — Incident Resolution & Enterprise Rollout](https://github.com/moemarabeh/haadj-incident-resolution-enterprise-rollout-)  
